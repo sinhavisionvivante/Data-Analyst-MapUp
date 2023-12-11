@@ -1,0 +1,36 @@
+Total Trades: 249
+Profitable Trades: 153
+Loss-Making Trades: 96
+Win Rate: 0.6144578313253012
+Average Profit per trade: 76.09542483660138
+Average Loss per trade: 105.54374999999999
+Risk Reward ratio: 0.7209846612101748
+Expectancy: 6.065863453815311
+Average ROR per trade: 0.053869640223127936
+Sharpe Ratio: 0.053869640223127936
+Max Drawdown: 552.0500000000001
+Max Drawdown Percentage: 0      401.490909
+1      389.453263
+2      309.792368
+3      172.165913
+4      172.165913
+          ...    
+244     37.787056
+245     37.785763
+246     37.315804
+247     37.014315
+248     36.549921
+Length: 249, dtype: float64
+CAGR: 8.664353678544678e-05
+Calmar Ratio: 0      2.158045e-07
+1      2.224748e-07
+2      2.796826e-07
+3      5.032560e-07
+4      5.032560e-07
+           ...     
+244    2.292942e-06
+245    2.293021e-06
+246    2.321899e-06
+247    2.340812e-06
+248    2.370553e-06
+Length: 249, dtype: float64
